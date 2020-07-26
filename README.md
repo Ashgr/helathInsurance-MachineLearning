@@ -3,6 +3,7 @@ ML model to predict the charges of insurance for data set using Linear Regressio
 # Data Set
 Data set have some attributes for our insurance subscribers
 (age, sex, bmi, children, smoker, region, Charges)
+https://www.kaggle.com/mirichoi0218/insurance
 # About
 I applied a Linear Regression in this model.
 Honestly that's not the best ML model it has (70 - 80) accuracy
